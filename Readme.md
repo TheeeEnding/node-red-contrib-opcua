@@ -1,18 +1,4 @@
-[![NPM download](https://img.shields.io/npm/dm/node-red-contrib-opcua.svg)](http://www.npm-stats.com/~packages/node-red-contrib-opcua)
-[![NPM version](https://badge.fury.io/js/node-red-contrib-opcua.png)](http://badge.fury.io/js/node-red-contrib-opcua)
-
-![Node-RED OPC UA](http://b.repl.ca/v1/Node--RED-OPC_UA-blue.png)
-
-node-red-contrib-opcua
-========================
-
-![opcuanodeLogo64](images/opcuanodeLogo64.png)
-
-A [Node-RED][1] nodes to communicate or serve via [OPC UA](https://www.npmjs.com/package/node-opcua).
-
-based on [node-opcua](http://node-opcua.github.io/)
-
-![nodeopcua64](images/nodeopcua64.png)
+TEST
 
 Install
 -------
