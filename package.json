@@ -43,15 +43,14 @@
     "flatted": "^3.2.2",
     "get-user-locale": "^2.3.0",
     "lodash.clonedeep": "^4.5.0",
-    "node-opcua": "^2.120.0",
-    "node-opcua-client-crawler": "^2.120.0",
-    "node-opcua-file-transfer": "^2.120.0",
+    "node-opcua": "^2.124.0",
+    "node-opcua-client-crawler": "^2.124.0",
+    "node-opcua-file-transfer": "^2.124.0",
     "os-locale": "^6.0.2"
   },
   "directories": {
     "example": "examples"
   },
-  "homepage": "https://github.com/mikakaraila/node-red-contrib-opcua#readme",
   "scripts": {
     "test": "karma start opcua.conf.js --log-level debug --single-run"
   },
