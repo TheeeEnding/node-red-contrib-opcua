@@ -371,7 +371,7 @@ module.exports = function (RED) {
           endpointMustExist: connectionOption.endpointMustExist,
           connectionStrategy: connectionOption.connectionStrategy,
           clientName: node.name, // Fix for #664 sessionName
-          keepSessionAlive: true, // TODO later make it possible to disable NOTE: commented out: issue #599, code back active needed!!
+          // keepSessionAlive: true, // TODO later make it possible to disable NOTE: commented out: issue #599, code back active needed!!
           requestedSessionTimeout: 60000 * 5, // 5min, default 1min
           // transportSettings: transportSettings // Some 
         };
